@@ -1,0 +1,483 @@
+Date,Accomodation,Huawei,Location,Level,Type,Description,Comments,Date_Done,Maintenance-Time_h,Days_Taken
+2021-01-12,0,0,Lobby Reception,Low,Civil,All area with Complete offices,,2021-01-12,8.0,0 days
+2021-01-14,0,0,Staff Cafeteria,Low,Civil,needed painting,,2021-01-14,8.0,0 days
+2021-01-15,0,0,Lobby Faade,Urgent,Civil,Fixing Alucobond,,2021-01-15,7.0,0 days
+2021-01-16,0,0,Outside lobby,Medium,General,Fountains are not working,"Big fountain lacks lights, small fountain the motor's coil was burnt,  has been already sent for fixing.",2021-02-20,2.0,35 days
+2021-01-16,0,0,Spa,Urgent,Civil,Turkish Bath stones have fallen,,2021-01-20,8.0,4 days
+2021-01-16,0,0,Dubliner,Medium,Civil,Cracks in the wall,,2021-01-19,10.0,3 days
+2021-01-16,0,0,Nawroz ,Medium,Civil,ceiling needs Civil + gutter leakage,,2021-01-21,5.0,5 days
+2021-01-16,0,0,KItchen,Medium,Civil,Broken tiles,,2021-01-19,8.0,3 days
+2021-01-17,0,0,Entrance area,Low,mechanical,Covers of the Jack,"Two bottum covers of the jacks outside have been missing outside for over a year now, and for good reason as the jacks would pull up any cover that would be attached to General. We sent the jacks outside for lathe machine, then we elevated the jacks, and broked the floor for Generals placing. The covers now are attached ",2021-01-17,7.0,0 days
+2021-01-18,0,0,,,PPM,,"General Comment: This day was spend by adding 10 rooms to the PPM list, which uped the total number from 30 to 40",2021-01-18,10.0,0 days
+2021-01-18,0,0,Spa,m,Carpentry,Door leading to SPA is damaged,,2021-01-20,3.0,2 days
+2021-01-19,0,0,,,Civil,,General Comment: This day was spent by fixing the cracks and civil issues of Dubliner as mentioned above ,2021-01-19,8.0,0 days
+2021-01-19,0,1,Huawie Corridor ,Urgent,AC,FCU pipes leak,,2021-01-20,4.0,1 days
+2021-01-19,0,1,156,Urgent,Plumbing,Drain pipe of the toilet in Huawie has been blocked,,2021-01-19,1.0,0 days
+2021-01-20,0,0,Entrance area,Low,PPM,PPM on the security  gate,,2021-01-20,3.0,0 days
+2021-01-20,0,0,Pump room,Medium,electrical,Protection relay missing from pool electric board,,2021-01-26,2.0,6 days
+2021-01-20,0,0,Lobby,Medium,Carpentry,Lobby door wood needs touch-up,This needs brown silicon. We do not have General.,2021-02-03,4.0,14 days
+2021-01-20,0,0,Dubliner,Medium,Carpentry,Dubliner bar back stage sheet floor is damaged,We need that type of floor sheet  ,2021-01-25,7.0,5 days
+2021-01-20,0,0,Hotel faade,Medium,electrical,Three lines of light +The letters H and U of the building are not working,,2021-01-26,6.0,6 days
+2021-01-20,0,0,Entrance area,Medium,Civil,Secury  entrance road damage,This needs tar. Kak Barzan has been informed ,2021-03-01,1.0,40 days
+2021-01-20,0,0,Reception ,Medium,Carpentry,Shelves for reception, ,2021-02-01,3.0,12 days
+2021-01-20,0,0,Spa,Medium,mechanical,Jaccuzzi covers,,2021-02-03,4.0,14 days
+2021-01-20,0,0,Spa,Medium,General,Mirror for spa,We arewaGeneraling for next meeting complain kak barzan so that we can inform him,2021-01-20,0.5,0 days
+2021-01-20,0,0,Basketball field ,Medium,electrical,The basketball field for Hwaie needs projectors to lighten the place up,This took some time because we had to modify the projectores in a way that General can be attached in a stable way to the standing lights  ,2021-02-11,10.0,22 days
+2021-01-21,0,0,,,PPM,,General Comment: Nawroz celing problem and Civil + the rimander of house-keeping list of rooms to be painted has been done  ,2021-01-21,6.0,0 days
+2021-01-23,0,0,Spa,Medium,General,Jaccuzzi water seems to have gotten colder by one degree which produces comlaints by guests,The floor heating was turned on  to make the general atmosphere of the pool hoter so that the heater can manage to heat the water. Also General is important to note that General has been decided to make the heaters two instead of one in future as the heater is small and causes problems for us in times of winter,2021-01-23,0.5,0 days
+2021-01-23,0,0,Pump room,Medium,electrical,Dosing Pump Electronic problem,"The issue is electronic, so we send the dosing pump to GMS to their electronic technician to fix the issue ",2021-01-23,4.0,0 days
+2021-01-23,0,0,Spa,Medium,electrical,The changing color-big light in pool stopped working,,2021-01-27,8.0,4 days
+2021-01-23,0,0,Lobby,Medium,Carpentry,curtain broken,"This curtain has a certain type of robe, we are waGeneraling for next meeting complain kak barzan so that we can inform him",2021-01-23,3.0,0 days
+2021-01-23,0,0,Basketball field ,Medium,Civil,There is cracks in the field,Dr. Jaza is informed that we need tar in order to go ahead and fill these cracks ,2021-01-25,4.0,2 days
+2021-01-23,0,0,,,Civil,,General Comment: 6 rooms have been completely painted.,2021-01-23,10.0,0 days
+2021-01-23,0,0,kitchen,Medium,Plumbing,wash basin drain is blocked,,2021-01-24,1.0,1 days
+2021-01-23,0,0,kitchen,Medium,AC,AHU is not heating,"After opening the coil, cleaning , and also emptying out all the air in that specific pipes, the issue was resloved  ",2021-01-24,3.0,1 days
+2021-01-23,0,1,Huawie rooms,Medium,electrical,5 standing lamp does not work,,2021-02-02,1.5,10 days
+2021-01-24,0,0,,,Civil,,General Comment: 6 rooms have been completely painted ,2021-01-24,8.0,0 days
+2021-01-24,0,0,Dubliner,Medium,electrical,There is a short in the light circuit  that surrounds Dubliner garden + 6 lights are not working,,2021-01-28,1.0,4 days
+2021-01-25,0,0,,,Civil,,General comment: 6 rooms have been painted in this day + the other works that has been done on this date that are mentioned above  ,2021-01-25,8.0,0 days
+2021-01-25,1,0,Accomodation,Medium,electrical,lights in all floors needs changing,,2021-01-30,2.0,5 days
+2021-01-25,0,0,,Medium,electrical,Some of the standing lights outside needs fixing in the top as their reflection panels have broken,We are planing to order crane in the next week,2021-01-30,10.0,5 days
+2021-01-26,0,0,,,Civil,,General Comment: Another 6 rooms have been painted on this day + The short in the light of dubliner was fixed  ,2021-01-26,8.0,0 days
+2021-01-26,0,0,kitchen,Medium,AC,One freezer leaks water,,2021-01-31,4.0,5 days
+2021-01-27,0,0,,Low,Civil,,Fixing Cracks in Civil in service area near H.K area ,2021-01-27,4.0,0 days
+2021-01-27,0,0,,,electrical,,General comment: The lighting issue in the third and forth floor of accomodation was fixed ,2021-01-27,6.0,0 days
+2021-01-28,0,0,,,General,,"General Comment: This day was mostly spent fixing accumilated minor issues, like fixing the door of receiving area, fixing hanging lights.",2021-01-28,7.0,0 days
+2021-01-28,0,0,Pump room,Medium,PPM,Jaccuzzi Jet has leakage,"We have opened the pump two times now. We changed one washer and applied silicon, this reduced the leakage abGeneral but did not stop General completely. I suspect we need to change a specific washer that we could not find in the bazar for the leak to stop completely ",2021-06-10,3.0,133 days
+2021-01-30,0,0,,,electrical,,General Comment: this day was spent changing the corridor lights of all the accomodation building + changing the outside flags ,2021-01-30,6.0,0 days
+2021-01-31,0,0,,,AC,,General Comment: This day was spent fixing one of the big freezers in kitchen which was leaking ,2021-01-31,4.0,0 days
+2021-02-01,0,0,,,electrical,,"General Comment: Crane was ordered on this day, most of the exterior lights of the building issues was solved. As well as installing shelves for the reception. ",2021-02-01,6.0,0 days
+2021-02-02,0,0,"302, 308, 148, 229,223",Medium,PPM,Quick PPM as next Saturday 50 guests will arrive,,2021-02-02,6.0,0 days
+2021-02-02,0,0,hotel entrance,Low,electrical,"Car barriers in the secuirty lost calibration completely to the point it was pressing the glass of the security office with  huge force when barrier was opening, also coming down with huge force.",,2021-02-02,4.0,0 days
+2021-02-03,0,0,,,General,,"General Comment: This day was spent by fixing a door that is located near the lobby, as well as other tries to fix the jaccuzzi jet, General was realized that we would need to buy mechanical seals, so this was set as a purchasing plan. ",2021-02-03,8.0,0 days
+2021-02-04,0,0,Dubliner,Medium,AC,fridge is not cooling,,2021-02-06,5.0,2 days
+2021-02-06,0,0,kitchen,Low,AC,Dishwasher does not work,,2021-02-08,4.0,2 days
+2021-02-06,0,0,hotel,Medium,electrical,Floor lights need fixing,,2021-02-07,2.0,1 days
+2021-02-07,0,0,Dubliner,Medium,electrical,Some lights are not working,,2021-02-07,1.0,0 days
+2021-02-07,0,0,,,electrical,,"General comment: On this day, spot lights of all the hotel were checked, and all the ones that were not working + all the lights that were whGeneralish were changed.",2021-02-07,3.0,0 days
+2021-02-08,0,0,302,Medium,PPM,Complete PPM,"By complete PPM everything like plumbing, Civil, electrical, AC, Mechanical is being covered throughly ",2021-02-09,4.0,1 days
+2021-02-09,0,0,,,PPM,,General comment: This day was spent by completing the PPM of the room 302 as well as fixing 3 Acs in Sarchnar'saccomodation. ,2021-02-09,2.5,0 days
+2021-02-10,0,1,Huawei basketball field ,Low,electrical,"Welding all the ordered plates complain hooks so that we are able to attach the projectors of Huawei in a stable manner, also painted the plates for aesthetic reasons",,2021-02-10,8.0,0 days
+2021-02-10,0,0,316,Medium,PPM,Complete PPM,,2021-02-17,3.2,7 days
+2021-02-11,0,1,Huawei ,Medium,electrical,Huawie requested installing hair driers to almost all rooms,,2021-02-15,4.0,4 days
+2021-02-11,0,0,Spa,Urgent,Plumbing,A valve was leaking excessively to the point that it completely filled the whole tiles of the area  with water,A very important take away is that we  need to install new valves for the hotel because we had to close down the water of the whole hotel to be able to fix the issue  ,2021-02-11,1.5,0 days
+2021-02-13,0,0,,Medium,Civil,Room 305 floor tiles + kitchen stone for preparing food was broekn + tile in nawroz was about to fall,,2021-02-15,10.0,2 days
+2021-02-13,0,1,254,Medium,PPM,complete PPM of AC side,,2021-02-13,2.0,0 days
+2021-02-14,0,0,kitchen,Medium,AC,Large freezer is not working,,2021-02-14,4.0,0 days
+2021-02-15,0,0,Pump room,Urgent,PPM,"Sand filter is very dirty, needs opening up and clean up",,2021-02-15,2.0,0 days
+2021-02-15,0,0,Dubliner,Medium,General,dimmable controler was not working,,2021-02-15,0.2,0 days
+2021-02-15,0,0,,,AC,,General Comment: All AC complains were met at this day as well. ,2021-02-15,2.0,0 days
+2021-02-16,0,0,,,General,,"General Comment: On this day, SOP number 01 which explains SOPs and their structure was given to three staffs with careful explanation. The Other staff were attending complains as well as working on finishing 316 PPM ",2021-02-16,4.0,0 days
+2021-02-17,1,0,,,General,,General Comment: lights in accomodation floors and rooms were changed on this day + plus minor damages caused by the strong wind like thrown flags with ruined ropes.,2021-02-17,5.0,0 days
+2021-02-17,0,0,,,AC,,"General Comment: On this day, almost all of the AC complains of the accommodation were taken care of.",2021-02-17,6.0,0 days
+2021-02-17,0,1,Huawei basketball field ,Medium,General,One basketball structure fell near the gas tanks + Generals upper structure was bent (cause : intense wind),The problem wasthe neck of the structure was completely stuck to the fin like structure srounding the LPG tanks ,2021-02-18,1.0,1 days
+2021-02-17,0,0,hotel entrance,Medium,General,"Due to the strong wind, the Iraqi flaq has fallen and the rope is completely ruined",We are waiting  for a chance to order crane time as changing the rope requires that,2021-06-13,2.0,116 days
+2021-02-17,0,1,Huawei basketball field ,Medium,General,Other basket ball structure fell onto the field + Generals ring was bent to an extreme degree  (cause : intense wind),"We have lifted the structure. However, after ordering the basketball ring, General has not still reached us. ",2021-02-19,3.0,2 days
+2021-02-17,0,0,,Medium,General,"In one of the rooms, the patio cover has been thrown via the strong wind","The structure has been damaged, we are waiting for the wind to ease up so that we can install it this time with better support.",2021-03-03,6.0,14 days
+2021-02-17,0,0,,,General,,General Comment: On this day all the damages caused by the strong wind that could be fixed without ordering spare parts were fixed.,2021-02-17,2.0,0 days
+2021-02-20,0,1,257,Medium,PPM,complete PPM of AC side,,2021-02-20,2.0,0 days
+2021-02-20,0,1,Huawei 3rd floor,Medium,Civil,Leak in corridor,,2021-02-24,3.0,4 days
+2021-02-22,0,0,Shisha room,Medium,AC,AC does not work,,2021-02-23,4.0,1 days
+2021-02-22,0,0,Spa,Medium,mechanical,"SPA male side, shower's hot line does not provide enough flow",,2021-02-23,2.0,1 days
+2021-02-23,0,0,,,AC,,room 249 ,2021-02-23,1.0,0 days
+2021-02-24,0,0,249,Medium,Civil,Civil side of the room,,2021-02-24,1.5,0 days
+2021-02-24,0,1,Huawei entrance,meduim,electrical,entrance sliding door is not working,,2021-02-24,0.5,0 days
+2021-02-24,0,0,249,Medium,RMS,RMS issue,,2021-02-24,3.5,0 days
+2021-02-25,0,0,251,high,PPM,everything but Civil,,2021-02-25,3.0,0 days
+2021-02-28,0,0,Kitchen ,Medium,electrical,kitchen area was not completely lit,"In total, 8 lights were repaired ",2021-02-28,1.5,0 days
+2021-02-28,0,0,Lobby,Medium,electrical,"One lobby entrace light had issues for long, it would work sometimes but then sometimes would not work",,2021-02-28,3.0,0 days
+2021-02-28,0,0,Kitchen ,Medium,electrical,Some anti-fly lights not working,,2021-03-01,2.0,1 days
+2021-03-01,0,1,154,Medium,Plumbing,wash basin drain is blocked,,2021-03-01,1.0,0 days
+2021-03-02,0,0,149,high,Civil,,"General Comment: 149 Civil side done, LPG leak tested, broken patio cover of 149 aka Kak Faruq's room was completely fixed from Generals holes and was painted and left over-night for General to dry ",2021-03-05,4.0,3 days
+2021-02-18,0,1,360,Medium,AC,Actuator was not fully in place,,2021-02-18,1.0,0 days
+2021-02-18,0,1,359,Medium,AC,window was open,,2021-02-23,0.1,5 days
+2021-02-23,0,1,256,Medium,AC,filter not clean,,2021-02-28,0.5,5 days
+2021-02-28,0,1,358,Medium,AC,Actuator was not fully in place,,2021-03-04,0.9,4 days
+2021-03-04,0,1,155,Medium,AC,Wrong valves were open,,2021-03-07,0.5,3 days
+2021-03-07,0,1,159,Medium,AC,Window was open,,2021-03-15,0.2,8 days
+2021-03-15,0,1,357,Medium,AC,filter not clean,,2021-04-23,0.6,39 days
+2021-03-23,0,1,253,Medium,AC,Wrong valves were open,,2021-03-24,0.5,1 days
+2021-03-24,0,1,159,Medium,AC,window was open,,2021-03-30,0.1,6 days
+2021-03-30,0,1,357,Medium,AC,Wrong valves were open,,2021-04-05,0.5,6 days
+2021-04-05,0,1,359,Medium,AC,Actuator was not fully in place,,2021-04-05,1.0,0 days
+2021-02-13,0,1,254,Medium,AC,254 FCU maintenanace,,2021-02-13,2.0,0 days
+2021-02-20,0,1,257,Medium,AC,257 FCU maintenance,,2021-02-20,2.0,0 days
+2021-03-06,0,1,259,Medium,AC,259 FCU maintenance,,2021-03-06,2.5,0 days
+2021-03-27,0,1,254,Medium,Civil,254 complete Civil,,2021-03-27,3.0,0 days
+2021-04-03,0,1,156,Medium,Civil,156 complete Civil,,2021-04-03,3.5,0 days
+2021-04-10,0,1,259,Medium,Civil,259 complete Civil,,2021-04-10,4.0,0 days
+2021-04-17,0,1,260,Medium,Civil,260 Complete Civil,,2021-04-17,3.0,0 days
+2021-04-24,0,1,154,Medium,Civil,154 Complete Civil,,2021-04-24,2.5,0 days
+2021-05-01,0,1,All coridors Huawei,Medium,PPM,physical check of sprinklers,,2021-05-01,2.0,0 days
+2021-05-08,0,1,156,Medium,Civil,156 Civil,,2021-05-08,3.0,0 days
+2021-05-15,0,1,153,Medium,Civil,153 Civil,,2021-05-15,2.5,0 days
+2021-05-22,0,1,157,Medium,Civil,157 Civil,,2021-05-29,3.0,7 days
+2021-05-28,0,0,Spa,Medium,Plumbing,WC hose leaking,,2021-05-28,0.4,0 days
+2021-05-28,0,0,Spa,Medium,electrical,Plug doesnÕt work,,2021-05-28,0.5,0 days
+2021-05-28,0,0,301,Medium,General,safety box doesnÕt work,,2021-05-28,0.5,0 days
+2021-05-28,0,0,151,Medium,electrical,hair dryer not working,,2021-05-28,0.7,0 days
+2021-05-28,0,0,229,Medium,electrical,standing lamp not working,,2021-05-28,0.2,0 days
+2021-05-28,0,0,251,Medium,electrical,electrical problem,,2021-05-28,2.0,0 days
+2021-05-28,0,0,350,Medium,Carpentry,curtain not moving,,2021-05-28,0.5,0 days
+2021-05-28,0,0,122,Medium,General,TV setup box issue,,2021-05-28,1.0,0 days
+2021-05-28,0,0,134,Medium,General,TV setup box issue,,2021-05-28,0.8,0 days
+2021-05-28,0,0,Dubliner,Medium,electrical,lights not working,,2021-05-28,0.5,0 days
+2021-05-29,0,0,Restaurant,Medium,AC,Tempreture too high,,2021-05-29,0.5,0 days
+2021-05-29,0,0,347,Medium,electrical,reading light not working,,2021-05-29,0.2,0 days
+2021-05-29,0,0,347,Medium,AC,Actuator was not fully in place,,2021-05-29,0.7,0 days
+2021-05-29,0,0,345,Medium,General,TV setup box issue,,2021-05-29,1.2,0 days
+2021-05-29,0,0,352,Medium,Plumbing,Shower issue,,2021-05-29,0.5,0 days
+2021-05-29,0,0,249,Medium,General,TV setup box issue,,2021-05-29,1.0,0 days
+2021-05-29,0,0,243,Medium,electrical,No power in room,,2021-05-29,1.0,0 days
+2021-05-29,0,0,305,Medium,AC,Actuator was not fully in place,,2021-05-29,1.2,0 days
+2021-05-29,0,0,lobby,Medium,Civil,fixing crack in tile,,2021-05-29,2.0,0 days
+2021-05-30,0,0,323,Medium,AC,Wrong valves were open,,2021-05-30,0.5,0 days
+2021-05-30,0,0,321,Medium,AC,actuator removed,,2021-05-30,1.5,0 days
+2021-05-30,0,0,346,Medium,AC,actuator removed,,2021-05-30,1.0,0 days
+2021-05-30,0,0,kitchen,Medium,AC,refrigerator is not working,,2021-05-30,3.0,0 days
+2021-05-30,0,0,240,high,PPM,,,2021-05-30,4.5,0 days
+2021-05-30,0,0,Spa,Medium,electrical,Heater of female steam room not working,,2021-05-30,5.0,0 days
+2021-05-30,0,0,321,Medium,Plumbing,water faucet leaking,,2021-05-30,1.0,0 days
+2021-05-30,0,0,234,Medium,AC,filter not clean,,2021-05-30,0.6,0 days
+2021-05-30,0,0,141,Medium,Plumbing,WC hose leaking,,2021-05-30,0.5,0 days
+2021-05-31,0,0,314,Medium,AC,filter not clean,,2021-05-31,0.5,0 days
+2021-05-31,0,0,235,Medium,General,TV setup box issue,,2021-05-31,0.8,0 days
+2021-06-01,0,0,Spa,high,General,Changing water of cold jaccuzzi,,2021-06-01,5.0,0 days
+2021-06-01,0,0,Spa,Medium,Plumbing,water faucet leaking,,2021-06-01,1.3,0 days
+2021-06-01,0,0,132,Medium,General,TV setup box issue,,2021-06-01,1.0,0 days
+2021-06-01,0,0,124,Medium,mechanical,Door and window issue,,2021-06-01,1.0,0 days
+2021-06-01,0,0,224,Medium,Carpentry,wardrope not sliding,changing the whole sliding system ,2021-06-01,2.5,0 days
+2021-06-01,0,0,222,Medium,electrical,standing lamp not working,,2021-06-01,0.5,0 days
+2021-06-01,0,0,225,Medium,mechanical,soap and towel holder loose,,2021-06-01,0.5,0 days
+2021-06-02,0,0,303,Medium,General,TV setup box issue,,2021-06-02,1.3,0 days
+2021-06-02,0,0,231,Medium,General,TV setup box issue,,2021-06-02,1.0,0 days
+2021-06-02,0,0,251,high,PPM,everything but flushing AC coil,,2021-06-02,4.5,0 days
+2021-06-02,0,0,303,high,PPM,everything but flushing AC coil,,2021-06-02,5.0,0 days
+2021-06-02,0,0,kitchen,Medium,mechanical,fry machine leaking oil  not working,,2021-06-02,2.0,0 days
+2021-06-02,0,0,231,Medium,RMS,Card holder not reponding,,2021-06-02,1.5,0 days
+2021-06-02,0,0,304,Medium,General,TV setup box issue,,2021-06-02,1.0,0 days
+2021-06-02,0,0,125,Medium,electrical,socket not working,,2021-06-02,0.7,0 days
+2021-06-02,0,0,347,Medium,AC,window was open,,2021-06-02,0.2,0 days
+2021-06-02,0,0,352,Medium,AC,actuator removed,,2021-06-02,1.5,0 days
+2021-06-02,0,0,237,Medium,AC,filter not clean,,2021-06-02,0.5,0 days
+2021-06-02,0,0,Spa,Medium,Plumbing,wash basin drain is blocked,,2021-06-02,1.0,0 days
+2021-06-02,0,0,352,Medium,General,TV setup box issue,,2021-06-02,1.5,0 days
+2021-06-02,0,0,313,Medium,General,TV setup box issue,,2021-06-02,1.0,0 days
+2021-06-02,0,0,314,Medium,General,TV setup box issue,,2021-06-02,1.0,0 days
+2021-06-02,0,1,Huawei restaurant ,Medium,AC,"One split ""General"" isnt working.",,2021-06-02,3.0,0 days
+2021-06-02,0,0,security Office ,Medium,mechanical,Door lock broken,,2021-06-02,1.0,0 days
+2021-06-03,0,0,Entrance garden,Medium,Plumbing,leak in two hoses,,2021-06-03,0.5,0 days
+2021-06-03,0,0,Kitchen,Medium,electrical,Meet cutting machine,,2021-06-03,1.0,0 days
+2021-06-03,0,0,Dubliner,Medium,General,one window's belt has been cut,,2021-06-22,1.0,19 days
+2021-06-03,0,0,243,high,PPM,everything but flushing AC coil,,2021-06-03,5.0,0 days
+2021-06-03,0,0,307,Medium,electrical,standing lamp not working,,2021-06-03,1.5,0 days
+2021-06-03,0,0,306,Medium,mechanical,Door lock broken,,2021-06-03,1.0,0 days
+2021-06-03,0,0,303,Medium,mechanical,window handle isnt working,,2021-06-03,1.0,0 days
+2021-06-03,0,0,147,Medium,electrical,shaving merror,,2021-06-03,1.0,0 days
+2021-06-03,0,0,246,Medium,electrical,"tv was not working,electrical problem",,2021-06-03,1.0,0 days
+2021-06-03,0,0,247,Medium,Plumbing,wash basin drain is blocked,,2021-06-03,2.0,0 days
+2021-06-03,0,0,Dubliner,Medium,Plumbing,wash basin drain is blocked,,2021-06-03,1.5,0 days
+2021-06-04,0,0,Spa,Medium,Plumbing,wash basin drain is blocked,,2021-06-04,1.0,0 days
+2021-06-04,0,0,122,Medium,RMS,Card reader is not reposnsive,,2021-06-04,1.0,0 days
+2021-06-04,0,0,322,Medium,AC,Wrong valves were open,,2021-06-04,0.5,0 days
+2021-06-04,0,0,131,Medium,General,TV setup box issue,,2021-06-04,1.0,0 days
+2021-06-04,0,0,335,Medium,General,TV setup box issue,,2021-06-04,1.5,0 days
+2021-06-04,0,0,245,Medium,AC,filter not clean,,2021-06-04,0.5,0 days
+2021-06-04,0,0,Dubliner,Medium,electrical,few lights not working,,2021-06-04,0.5,0 days
+2021-06-04,0,0,135,Medium,Plumbing,wash basin drain is blocked,,2021-06-04,1.0,0 days
+2021-06-04,0,0,hotel entrance,Medium,mechanical,security arms not working,,2021-06-04,4.0,0 days
+2021-06-04,0,0,345,Medium,AC,Window was open,,2021-06-04,0.2,0 days
+2021-06-05,0,0,G floor-C block corridor ,Medium,Civil,Creating wall between C and D block in G floor,,2021-06-05,8.0,0 days
+2021-06-05,0,0,313,Medium,electrical,No power in room,,2021-06-05,1.0,0 days
+2021-06-05,0,0,security Office ,Medium,Carpentry,table was broken,,2021-06-05,2.0,0 days
+2021-06-05,0,0,330,Medium,General,TV setup box issue,,2021-06-05,1.5,0 days
+2021-06-05,0,0,236,Medium,AC,filter not clean,,2021-06-05,1.0,0 days
+2021-06-05,0,0,134,Medium,General,"TV isnot working, problem with wiring",,2021-06-05,0.5,0 days
+2021-06-05,0,0,146,Medium,General,TV setup box issue,,2021-06-05,1.5,0 days
+2021-06-05,0,0,248,Medium,AC,window was open,,2021-06-05,0.5,0 days
+2021-06-05,0,0,337,Medium,General,"tv was not working,electrical problem",,2021-06-05,1.0,0 days
+2021-06-05,1,0,Dubliner,high,mechanical,ceiling is not responding,,2021-06-05,2.0,0 days
+2021-06-06,1,0,Accomodation,,mechanical,From 5th floor until second floor all wc and bathroom area was fixed from all problems,,2021-06-06,2.0,0 days
+2021-06-06,1,0,Accomodation,,electrical,From 5th floor until second floor all wc and bathroom area was fixed from all problems,,2021-06-06,2.0,0 days
+2021-06-06,1,0,Accomodation,Medium,Plumbing,From 5th floor until second floor all wc and bathroom area was fixed from all problems,,2021-06-06,2.0,0 days
+2021-06-06,0,0,Hotel entrance,Medium,electrical,security gate circuit  was burned.,,2021-06-06,3.0,0 days
+2021-06-06,0,0,316,Medium,AC,window sensor was not responding,,2021-06-06,2.5,0 days
+2021-06-07,0,0,149,high,PPM,everything but flushing AC coil,,2021-06-07,6.0,0 days
+2021-06-07,0,0,146,high,PPM,everything but flushing AC coil,,2021-06-07,6.5,0 days
+2021-06-07,0,0,339,Medium,General,TV setup box issue,,2021-06-07,1.5,0 days
+2021-06-07,0,0,122,Medium,General,TV setup box issue,,2021-06-07,1.0,0 days
+2021-06-07,0,0,324,Medium,AC,filter not clean,,2021-06-07,0.7,0 days
+2021-06-07,0,0,329,Medium,General,telephone wiring issue,,2021-06-07,1.0,0 days
+2021-06-07,0,0,Lobby Cafetria ,Medium,electrical,"Coffee mahcine kept on tripping, changed socket and wire",,2021-06-07,1.0,0 days
+2021-06-07,0,0,227,Medium,Plumbing,wash basin drain is blocked,,2021-06-07,2.0,0 days
+2021-06-07,0,0,347,Medium,Plumbing,wash basin drain is blocked,,2021-06-07,1.5,0 days
+2021-06-07,0,0,347,Medium,General,Did not know how to operate TV TV,,2021-06-07,0.2,0 days
+2021-06-08,0,0,135,Medium,electrical,hair dryer not working,,2021-06-08,0.5,0 days
+2021-06-08,0,0,225,Medium,electrical,"tv was not working,electrical problem",,2021-06-08,0.5,0 days
+2021-06-08,0,0,151,high,PPM,everything but flushing AC coil,,2021-06-08,5.0,0 days
+2021-06-08,0,0,246,high,PPM,everything but flushing AC coil,,2021-06-08,7.0,0 days
+2021-06-08,0,1,157,Medium,AC,filter not clean + loose wire in thermostat,,2021-06-08,1.0,0 days
+2021-06-08,0,0,249,Medium,mechanical,"Courtain fell down, was reinstalled",,2021-06-08,1.0,0 days
+2021-06-09,0,0,SPA,Medium,AC,Wrong valves were open,,2021-06-09,0.7,0 days
+2021-06-09,0,0,244,high,PPM,everything but flushing AC coil,,2021-06-09,4.0,0 days
+2021-06-09,0,0,Outside lobby,Medium,electrical,lights not working,,2021-06-09,0.5,0 days
+2021-06-09,0,0,SPA massage room,Medium,AC,actuator was removed,,2021-06-09,1.0,0 days
+2021-06-09,0,0,302,Medium,General,TV setup box issue,,2021-06-09,1.5,0 days
+2021-06-09,0,0,332,Medium,General,TV setup box issue,,2021-06-09,1.0,0 days
+2021-06-09,0,0,323,Medium,General,TV setup box issue,,2021-06-09,2.0,0 days
+2021-06-09,0,0,328,Medium,General,TV setup box issue,,2021-06-09,1.0,0 days
+2021-06-09,0,0,121,Medium,AC,window sensor was not responding,,2021-06-09,0.5,0 days
+2021-06-09,0,0,Dubliner,Medium,General,tissue holder loose,,2021-06-09,0.5,0 days
+2021-06-10,0,0,348,Medium,AC,Actuator was not fully in place,,2021-06-10,1.5,0 days
+2021-06-10,0,0,350,Medium,mechanical,door of balcony was jammed,,2021-06-10,0.5,0 days
+2021-06-10,0,0,335,Medium,electrical,"tv was not working,electrical problem",,2021-06-10,0.5,0 days
+2021-06-10,0,0,139,Medium,Plumbing,wash basin drain is blocked,,2021-06-10,1.0,0 days
+2021-06-10,0,0,Dubliner,Medium,General,"Courtain fell down, was reinstalled",,2021-06-10,1.2,0 days
+2021-06-10,0,0,122,Medium,AC,Thermostat loose wiring,,2021-06-10,1.0,0 days
+2021-06-10,0,0,314,Medium,General,remote controller of tv needed changing of battery,,2021-06-10,0.1,0 days
+2021-06-10,0,0,SPA,Medium,electrical,installing Sauna heaters,,2021-06-10,5.0,0 days
+2021-06-11,0,0,338,Medium,RMS,Card holder not reponding,,2021-06-11,0.5,0 days
+2021-06-11,0,0,121,Medium,Plumbing,wash basin drain is blocked,,2021-06-11,1.5,0 days
+2021-06-11,0,0,124,Medium,Carpentry,wardrope not sliding,,2021-06-11,2.0,0 days
+2021-06-11,0,0,233,Medium,electrical,lights not working,,2021-06-11,0.5,0 days
+2021-06-11,0,0,224,Medium,electrical,standing lamp not working,,2021-06-11,0.5,0 days
+2021-06-11,0,0,306,Medium,Carpentry,wardrope not sliding,,2021-06-11,2.0,0 days
+2021-06-11,0,0,229,Medium,electrical,door handle loose,,2021-06-11,0.2,0 days
+2021-06-11,0,0,222,Medium,electrical,lights not working,,2021-06-11,0.5,0 days
+2021-06-11,0,0,228,Medium,General,TV setup box issue,,2021-06-11,1.0,0 days
+2021-06-11,0,0,347,Medium,electrical,No power in room,,2021-06-11,1.5,0 days
+2021-06-12,0,0,345,Medium,electrical,lights not working,,2021-06-12,0.5,0 days
+2021-06-12,0,0,303,Medium,electrical,lights not working,,2021-06-12,0.3,0 days
+2021-06-12,0,0,247,Medium,Carpentry,drawer fixing,,2021-06-12,0.5,0 days
+2021-06-12,0,0,307,Medium,electrical,changing led strip of bathroom,,2021-06-12,1.0,0 days
+2021-06-12,0,0,241,Medium,Plumbing,wash basin drain is blocked,,2021-06-12,1.2,0 days
+2021-06-12,0,0,SPA,Medium,electrical,changing holder of light near female WC,,2021-06-12,0.2,0 days
+2021-06-12,0,0,SPA,Medium,Plumbing,Fixing pool shower handle,,2021-06-12,0.5,0 days
+2021-06-12,0,0,252,Medium,General,TV setup box issue,,2021-06-12,1.0,0 days
+2021-06-13,0,0,142,high,PPM,everything but flushing AC coil,,2021-06-13,3.5,0 days
+2021-06-13,0,0,141,high,PPM,everything but flushing AC coil,,2021-06-13,4.0,0 days
+2021-06-13,0,0,Nawroz ,Medium,Civil,Fixing gutter + creating new access door,,2021-06-13,4.0,0 days
+2021-06-13,0,0,305,Medium,Civil,Applying silicon to shower area,,2021-06-13,1.5,0 days
+2021-06-13,0,0,Dubliner,Medium,electrical,Changing 6 lights,,2021-06-13,0.5,0 days
+2021-06-13,0,0,Hotel facate ,High,electrical,Fixing all lights,,2021-06-13,4.0,0 days
+2021-06-13,0,0,Hotel outside ,high,General,adding new rope to the poll outside the lobby,,2021-06-13,1.5,0 days
+2021-06-13,0,0,328,Medium,General,TV setup box issue,,2021-06-13,1.0,0 days
+2021-06-13,0,0,hotel Entrance,Medium,electrical,One light had issue,,2021-06-13,0.5,0 days
+2021-06-13,0,0,131,Medium,General,TV setup box issue,,2021-06-13,1.5,0 days
+2021-06-14,0,0,310,high,PPM,everything but flushing AC coil,,2021-06-14,4.0,0 days
+2021-06-14,0,0,309,high,PPM,everything but flushing AC coil,,2021-06-14,6.0,0 days
+2021-06-14,0,0,security Office ,Medium,Carpentry,drawer fixing,,2021-06-14,0.5,0 days
+2021-06-14,0,0,306,Medium,Plumbing,WC hose leaking,,2021-06-14,0.5,0 days
+2021-06-14,0,0,Reception ,Medium,electrical,changing lights,,2021-06-14,0.5,0 days
+2021-06-14,0,0,346,Medium,Plumbing,WC hose leaking,,2021-06-14,0.5,0 days
+2021-06-14,0,0,348,Medium,mechanical,shaving merror loose,,2021-06-14,0.2,0 days
+2021-06-14,0,0,248,Medium,electrical,shaving merror light not working,,2021-06-14,0.3,0 days
+2021-06-15,1,0,"2nd, 3rd. 4rth floor",Medium,electrical,changing lights,,2021-06-15,5.0,0 days
+2021-06-15,1,0,6th floor,Medium,AC,elevator room ac not working,,2021-06-15,3.0,0 days
+2021-06-15,1,0,201,Medium,AC,"AC not working, changed compressor",,2021-06-15,4.0,0 days
+2021-06-15,0,0,roof,high,PPM,AHU filter cleaning of A block,,2021-06-15,1.5,0 days
+2021-06-15,0,0,225,Medium,AC,Actuator was not fully in place,,2021-06-15,1.5,0 days
+2021-06-15,0,0,316,Medium,AC,Actuator was not fully in place,,2021-06-15,1.0,0 days
+2021-06-15,0,0,328,Medium,General,TV setup box issue,,2021-06-15,1.0,0 days
+2021-06-15,0,0,312,high,PPM,everything but flushing AC coil,,2021-06-15,6.5,0 days
+2021-06-15,0,0,347,high,Plumbing,room does not have hot water,,2021-06-15,1.5,0 days
+2021-06-16,0,0,134,Medium,General,TV controller not responding,battery needed changing,2021-06-16,0.2,0 days
+2021-06-16,0,1,157,Medium,Plumbing,wash basin drain is blocked,,2021-06-16,1.0,0 days
+2021-06-16,0,1,154,Medium,Plumbing,faucet leaks water when closed,,2021-06-16,1.3,0 days
+2021-06-16,0,1,153,Medium,Plumbing,wash basin drain is blocked,,2021-06-16,1.0,0 days
+2021-06-16,0,0,226,Medium,electrical,standing lamp not working,,2021-06-16,0.5,0 days
+2021-06-16,0,0,335,Medium,Plumbing,faucet leaks water when closed,,2021-06-16,1.5,0 days
+2021-06-16,0,0,226,Medium,AC,Thermostat loose wiring,,2021-06-16,0.5,0 days
+2021-06-16,1,0,G + 1st floor,high,electrical,changing corridor lights,,2021-06-16,2.0,0 days
+2021-06-16,0,0,Dubliner,high,mechanical,"Another window was broken and has fallen, wires cut, shaft out of place",,2021-06-16,7.0,0 days
+2021-06-16,0,0,337,Medium,General,changing battery of safety box,,2021-06-16,0.1,0 days
+2021-06-16,0,0,229,Medium,AC,Wrong valves were open,,2021-06-16,0.7,0 days
+2021-06-16,0,0,224,Medium,AC,actuator was removed,,2021-06-16,1.0,0 days
+2021-06-17,0,1,160,Medium,AC,Thermostat loose wiring,,2021-06-17,0.5,0 days
+2021-06-17,0,1,154,Medium,Plumbing,wash basin drain is blocked,,2021-06-17,1.2,0 days
+2021-06-17,0,0,121,Medium,Carpentry,wardrope  not sliding,changing the whole sliding system ,2021-06-17,2.5,0 days
+2021-06-17,1,0,100,Medium,electrical,changing socket,,2021-06-17,0.3,0 days
+2021-06-17,0,0,314,Medium,AC,Mechanical actuator issue,,2021-06-17,2.0,0 days
+2021-06-17,0,0,223,Medium,electrical,standing lamp not working,issue with light bulb holder ,2021-06-17,0.3,0 days
+2021-06-17,0,0,301,high,PPM,everything but flushing AC coil,,2021-06-17,4.5,0 days
+2021-06-17,0,0,128,Medium,Carpentry,drawer handle broke,,2021-06-17,2.0,0 days
+2021-06-18,0,0,Security Office ,Medium,AC,AC is not working,"This AC gets fixed, and stops working after a day or two ",2021-06-20,3.0,2 days
+2021-06-18,0,0,134,Medium,RMS,Card reader is not reposnsive,,2021-06-18,0.5,0 days
+2021-06-18,0,0,237,Medium,Plumbing,faucet leaks water when closed,changing inner shaft ,2021-06-18,1.5,0 days
+2021-06-18,0,0,131,Medium,General,TV setup box issue,,2021-06-18,1.0,0 days
+2021-06-19,0,0,252,Medium,Plumbing,faucet leaks water when closed,changing the socket fitting ,2021-06-19,2.0,0 days
+2021-06-19,0,0,155,high,PPM,everything but flushing AC coil,,2021-06-19,4.0,0 days
+2021-06-19,0,0,347,Medium,Plumbing,WC hose leaking,,2021-06-19,0.5,0 days
+2021-06-20,0,0,302,high,PPM,everything but flushing AC coil,,2021-06-20,5.5,0 days
+2021-06-20,0,0,304,high,PPM,everything but flushing AC coil,,2021-06-20,4.5,0 days
+2021-06-20,0,0,222,Medium,mechanical,Bathroom door hinge was broken,,2021-06-20,4.5,0 days
+2021-06-20,0,0,246,Medium,AC,"thermostat was not responding, card issue",,2021-06-20,1.0,0 days
+2021-06-20,0,0,136,Medium,General,TV controller not responding,battery needed changing,2021-06-20,0.2,0 days
+2021-06-20,0,0,124,Medium,AC,actuator was removed,,2021-06-20,1.5,0 days
+2021-06-21,0,0,Kitchen,high,AC,refrigerator F7 is not working,problem with outdoor fan,2021-06-21,3.5,0 days
+2021-06-21,0,1,353,Medium,electrical,installing bedside lamp,,2021-06-21,3.0,0 days
+2021-06-21,0,0,306,high,PPM,everything but flushing AC coil,,2021-06-21,5.0,0 days
+2021-06-21,0,0,307,high,PPM,everything but flushing AC coil,,2021-06-21,5.5,0 days
+2021-06-21,0,1,260,Medium,Plumbing,WC hose leaking,,2021-06-21,6.0,0 days
+2021-06-21,0,0,3rd floor,Medium,electrical,changing 3 spotlights of corridor,,2021-06-21,0.5,0 days
+2021-06-21,0,0,Dubliner,Medium,electrical,socket not working,,2021-06-21,0.5,0 days
+2021-06-21,0,0,Kitchen,Medium,electrical,freezer light not working,,2021-06-21,0.2,0 days
+2021-06-21,0,0,221,Medium,General,TV setup box issue,"Setup box gets heated, needs time before it can be used again ",2021-06-21,1.0,0 days
+2021-06-21,0,0,131,Medium,General,TV setup box issue,"Setup box gets heated, needs time before it can be used again ",2021-06-21,1.3,0 days
+2021-06-22,0,0,340,Medium,General,safety box doesnÕt work,changed safety box,2021-06-22,1.0,0 days
+2021-06-22,0,0,125,Medium,General,"TV isnot working, problem with wiring",,2021-06-22,0.5,0 days
+2021-06-22,0,0,231,Medium,RMS,Card holder not reponding,Changing card holder,2021-06-22,0.3,0 days
+2021-06-22,0,0,245,Medium,electrical,standing lamp not working,,2021-06-22,1.0,0 days
+2021-06-22,0,0,SPA,Medium,AC,filter not clean,,2021-06-22,0.7,0 days
+2021-06-22,0,0,152,high,PPM,everything but flushing AC coil,,2021-06-22,5.0,0 days
+2021-06-22,0,0,Security Office ,Medium,General,air goes inside the office which causes AC issues,Installing Nylon covers ,2021-06-22,1.5,0 days
+2021-06-22,0,1,256,Medium,AC,Window was open,,2021-06-22,0.2,0 days
+2021-06-23,0,1,256,Medium,electrical,Ceiling lights and plug not working,,2021-06-23,0.5,0 days
+2021-06-23,0,0,Roof,high,PPM,Installing bag filters to all AHUs,,2021-06-23,2.0,0 days
+2021-06-23,0,0,241,high,PPM,everything but flushing AC coil,,2021-06-23,5.5,0 days
+2021-06-23,0,0,242,high,PPM,everything but flushing AC coil,,2021-06-23,6.0,0 days
+2021-06-23,0,0,Spa,Medium,Civil,Female bathroom ceiling in bad condition,,2021-06-23,4.0,0 days
+2021-06-23,0,0,125,Medium,General,"TV isnot working, problem with wiring",,2021-06-23,0.6,0 days
+2021-06-24,1,0,All floors  ,high,electrical,Ficing all electrical problem,,2021-06-24,3.5,0 days
+2021-06-24,1,0,All floors  ,high,Plumbing,Fixing all plumbing  issues in the bathrooms and toilets,,2021-06-24,4.0,0 days
+2021-06-24,0,1,G,high,mechanical,Main door connecting Huawei to new area was not opening,,2021-06-24,1.6,0 days
+2021-06-24,1,0,410,Medium,AC,Problem in the chip,,2021-06-24,2.0,0 days
+2021-06-24,1,0,510,Medium,AC,Issue with outdoor unit contractor,,2021-06-24,2.5,0 days
+2021-06-24,0,0,151,Medium,RMS,Card holder not reponding,"After cleaning the card hoder, it started responding",2021-06-24,0.3,0 days
+2021-06-24,0,0,Kitchen,Medium,electrical,2 lights not working,,2021-06-24,0.4,0 days
+2021-06-24,0,0,252,Medium,AC,filter not clean,,2021-06-24,0.5,0 days
+2021-06-24,0,0,130,Medium,AC,Thermostat loose wiring,,2021-06-24,0.3,0 days
+2021-06-24,0,0,301,Medium,AC,Thermostat not responding,Needed cleaning,2021-06-24,0.3,0 days
+2021-06-24,0,0,225,Medium,AC,Thermostat not responding,Needed cleaning,2021-06-24,0.3,0 days
+2021-06-25,0,0,SPA,Medium,electrical,6 lights in Turkish bath does not work,,2021-06-25,1.0,0 days
+2021-06-25,0,1,256,Medium,Carpentry,door stoper issue,,2021-06-25,0.5,0 days
+2021-06-25,0,0,306,Medium,General,TV setup box issue,,2021-06-25,1.2,0 days
+2021-06-25,0,0,122,Medium,General,"tv was not working,electrical problem",,2021-06-25,0.5,0 days
+2021-06-25,0,0,301,Medium,General,bad smell in the room,,2021-06-25,1.0,0 days
+2021-06-26,0,1,255,high,Civil,Full paint of the room,,2021-06-26,3.0,0 days
+2021-06-26,0,0,315,Medium,AC,filter not clean,,2021-06-26,0.6,0 days
+2021-06-26,0,0,129,Medium,electrical,socket not working,,2021-06-26,0.5,0 days
+2021-06-26,0,0,Dubliner Garden,high,electrical,Putting light all over the trees,,2021-06-26,4.0,0 days
+2021-06-26,0,0,139,Medium,electrical,changing bedside light,,2021-06-26,0.3,0 days
+2021-06-26,0,0,139,Medium,Carpentry,wardrope not sliding,changing the whole sliding system ,2021-06-26,2.0,0 days
+2021-06-26,0,0,144,Medium,Carpentry,main door of the room was noisy,,2021-06-26,0.4,0 days
+2021-06-26,0,1,Huawei main door ,Medium,electrical,sliding door was faulty,needed a restart ,2021-06-26,0.2,0 days
+2021-06-26,0,0,127,Medium,AC,filter not clean,,2021-06-26,1.0,0 days
+2021-06-26,0,0,121,Medium,General,"TV isnot working, problem with wiring",Internet cable disconnected ,2021-06-26,0.8,0 days
+2021-06-26,0,0,231,Medium,AC,filter not clean,,2021-06-26,1.0,0 days
+2021-06-27,0,1,257,Medium,electrical,lights not working,,2021-06-27,0.5,0 days
+2021-06-27,0,0,Lobby garden ,high,General,Putting light all over the trees,,2021-06-27,7.0,0 days
+2021-06-27,0,1,Huawei restaurant ,Medium,Plumbing,WC hose leaking,,2021-06-27,0.5,0 days
+2021-06-27,0,0,Lobby entrance ,Medium,electrical,changing 4 garden standing lights,,2021-06-27,2.0,0 days
+2021-06-27,1,0,201,Medium,AC,gas issue and dirty filter,,2021-06-27,2.5,0 days
+2021-06-27,1,0,406,Medium,AC,Did not know how to operate TV,,2021-06-27,0.3,0 days
+2021-06-27,0,0,323,Medium,AC,Actuator was not fully in place,,2021-06-27,1.0,0 days
+2021-06-28,0,0,345,high,PPM,everything but flushing AC coil,,2021-06-28,4.5,0 days
+2021-06-28,0,0,348,high,PPM,everything but flushing AC coil,,2021-06-28,5.0,0 days
+2021-06-28,0,1,157,Medium,AC,Thermostat not responding,Needed cleaning,2021-06-28,0.3,0 days
+2021-06-28,0,0,259,Medium,Plumbing,WC hose leaking,,2021-06-28,0.5,0 days
+2021-06-28,0,1,156,Medium,electrical,lights not working,,2021-06-28,0.5,0 days
+2021-06-28,0,0,345,Medium,General,"TV isnot working, problem with wiring",,2021-06-28,0.4,0 days
+2021-06-28,0,0,148,Medium,General,"TV isnot working, problem with wiring",,2021-06-28,0.6,0 days
+2021-06-28,0,1,156,Medium,Plumbing,Toilet was blocked,,2021-06-28,1.0,0 days
+2021-06-28,0,0,Restaurant,Medium,General,Hand sanitizer needed change of battery,,2021-06-28,0.3,0 days
+2021-06-29,0,0,SPA,high,Plumbing,"drain near pool bar was throwing water out when used, main line of waste water was blocked",,2021-06-29,2.0,0 days
+2021-06-29,0,0,245,high,PPM,everything but flushing AC coil,,2021-06-29,5.0,0 days
+2021-06-29,0,0,Near staff cafeteria,high,Civil,"approximately in 14 m length, all the ceiling, gypsum board and plastic boards combined collapsed",This happened because water leaked from the waste water line ,2021-07-03,16.0,4 days
+2021-06-29,0,0,345,Medium,General,"TV isnot working, problem with wiring",,2021-06-29,0.5,0 days
+2021-06-29,0,0,331,Medium,AC,filter not clean,,2021-06-29,0.7,0 days
+2021-06-30,0,0,121,Medium,Carpentry,Broken bed,,2021-06-30,3.5,0 days
+2021-06-30,0,0,147,Medium,AC,Did not know how to operate AC,,2021-06-30,0.3,0 days
+2021-06-30,0,0,138,Medium,Civil,WC roof was dirty,,2021-07-01,1.0,1 days
+2021-06-30,0,0,248,Medium,Plumbing,"Shower collapsed, needed reinstalling",,2021-06-30,1.0,0 days
+2021-06-30,1,0,105,Medium,AC,Drain pipe blocked,,2021-06-30,1.0,0 days
+2021-06-30,1,0,101,Medium,AC,Drain pipe blocked,,2021-06-30,1.5,0 days
+2021-06-30,1,0,G-cafeteria ,Medium,AC,Drain pipe blocked,,2021-06-30,1.0,0 days
+2021-06-30,1,0,406,Medium,AC,Chip issue,,2021-06-30,2.0,0 days
+2021-06-30,0,0,247,high,PPM,everything but flushing AC coil,,2021-06-30,4.5,0 days
+2021-06-30,0,0,301,Medium,General,"TV isnot working, problem with wiring",,2021-06-30,0.5,0 days
+2021-06-30,0,0,315,Medium,General,"TV isnot working, problem with wiring",,2021-06-30,0.6,0 days
+2021-06-30,0,0,246,Medium,Plumbing,wash basin drain is blocked,,2021-06-30,1.5,0 days
+2021-06-30,0,0,233,Medium,RMS,Bell would not stop working,,2021-06-30,1.0,0 days
+2021-07-01,0,1,160,Medium,RMS,RMS's relay would not give electricity to actuator,,2021-07-01,1.5,0 days
+2021-07-01,0,0,123,Medium,General,TV setup box issue,,2021-07-01,1.5,0 days
+2021-07-01,0,0,Basement- Staff WC,Medium,Carpentry,changing door lock,,2021-07-01,1.0,0 days
+2021-07-01,0,0,324,Medium,AC,Actuator was not fully in place,actuator needed tightening ,2021-07-01,1.0,0 days
+2021-07-02,0,0,324,Medium,electrical,standing lamp not working,,2021-07-02,1.0,0 days
+2021-07-02,0,0,314,Medium,AC,thermostat not responding,thermostat needed cleaning,2021-07-02,0.3,0 days
+2021-07-02,0,0,307,Medium,AC,actuator was not fully in place,,2021-07-02,1.0,0 days
+2021-07-02,0,0,313,Medium,AC,window was open, ,2021-07-02,0.2,0 days
+2021-07-02,0,0,345,Medium,AC,TV setup box issue,"Setup box gets heated, needs time before it can be used again ",2021-07-02,1.5,0 days
+2021-07-02,0,0,311,Medium,General,TV setup box issue,"Setup box gets heated, needs time before it can be used again ",2021-07-02,1.0,0 days
+2021-07-02,0,0,345,Medium,General,"TV isnot working, problem with wiring",,2021-07-02,0.5,0 days
+2021-07-02,0,0,Kitchen,Medium,AC,F3 refrigerator not cooling,,2021-07-04,3.0,2 days
+2021-07-03,0,1,160,Medium,Civil,Full paint of the room,,2021-07-03,3.5,0 days
+2021-07-03,0,0,Dubliner,Medium,electrical,lights not working,,2021-07-03,1.0,0 days
+2021-07-03,0,0,303,Medium,RMS,door would not open,changing card reader ,2021-07-03,0.5,0 days
+2021-07-03,0,0,303,Medium,General,"TV isnot working, problem with wiring",,2021-07-03,0.5,0 days
+2021-07-04,0,0,249,high,PPM,everything but flushing AC coil,,2021-07-04,5.0,0 days
+2021-07-04,0,0,127,Medium,General,"TV isnot working, problem with wiring",,2021-07-04,0.6,0 days
+2021-07-04,0,0,302,Medium,Plumbing,wash basin drain is blocked,,2021-07-04,1.5,0 days
+2021-07-04,0,0,302,Medium,Carpentry,wardrope not sliding,changing the whole sliding system ,2021-07-06,2.0,2 days
+2021-07-04,0,0,145,Medium,General,safety box doesnÕt work,changing the battery ,2021-07-04,0.2,0 days
+2021-07-04,0,0,307,Medium,AC,thermostat not responding,Needed cleaning,2021-07-04,0.2,0 days
+2021-07-04,0,0,SPA,Medium,General,male side locker was not working,battery needed changing,2021-07-04,0.3,0 days
+2021-07-04,0,0,126,Medium,electrical,changing gang switch,,2021-07-04,0.4,0 days
+2021-07-04,0,1,Fire exit area,Medium,mechanical,welding the back door,,2021-07-07,2.0,3 days
+2021-07-04,1,0,406,Medium,AC,Outdoor fan needed changing,,2021-07-04,2.0,0 days
+2021-07-04,0,0,402,Medium,AC,Conductor issue in outdoor unit,conductor was changed ,2021-07-05,1.5,1 days
+2021-07-05,0,0,346,high,PPM,everything but flushing AC coil,,2021-07-05,5.0,0 days
+2021-07-05,0,0,248,Medium,AC,Thermostat not responding,,2021-07-05,0.3,0 days
+2021-07-05,1,0,3rd floor,Medium,Plumbing,WC hose leaking,,2021-07-05,0.6,0 days
+2021-07-05,1,0,518,Medium,AC,Problem in the chip,,2021-07-08,1.5,3 days
+2021-07-05,0,0,235,Medium,AC,filter not clean,,2021-07-05,0.6,0 days
+2021-07-05,0,0,SPA male bathroom,Medium,Civil,"the roof is dirty, ,mirror needs silicone, drain needs putty",,2021-07-07,2.0,2 days
+2021-07-05,0,0,304,Medium,General,remote controller of tv needed changing of battery,,2021-07-05,0.2,0 days
+2021-07-06,0,0,315,Medium,AC,Thermostat not responding,,2021-07-06,0.3,0 days
+2021-07-06,0,0,313,high,PPM,everything but flushing AC coil,,2021-07-06,5.5,0 days
+2021-07-06,0,1,155,Medium,AC,Thermostat not responding,thermostat needed cleaning,2021-07-06,0.2,0 days
+2021-07-06,0,1,160,Medium,AC,Thermostat not responding,thermostat needed cleaning,2021-07-06,0.2,0 days
+2021-07-06,0,0,131,Medium,General,"TV isnot working, problem with wiring",,2021-07-06,0.6,0 days
+2021-07-06,0,0,225,Medium,AC,Did not know how to operate TV,,2021-07-06,0.2,0 days
+2021-07-06,0,0,126,Medium,General,"TV isnot working, problem with wiring",,2021-07-06,0.6,0 days
+2021-07-07,0,0,338,high,PPM,everything but flushing AC coil,,2021-07-07,5.5,0 days
+2021-07-07,0,0,350,high,PPM,everything but flushing AC coil,,2021-07-07,6.0,0 days
+2021-07-07,0,0,351,high,PPM,everything but flushing AC coil,,2021-07-07,5.0,0 days
+2021-07-07,0,1,Huawie entrance ,Medium,electrical,entrance sliding door is not working,,2021-07-07,0.3,0 days
+2021-07-07,0,0,232,Medium,mechanical,"Shower collapsed, needed reinstalling",,2021-07-07,1.5,0 days
+2021-07-07,0,0,335,Medium,General,TV setup box issue,,2021-07-07,1.5,0 days
+2021-07-07,0,0,323,Medium,electrical,breaker has tripped,,2021-07-07,0.2,0 days
+2021-07-07,0,0,222,Medium,AC,filters not clean,,2021-07-07,0.8,0 days
+2021-07-08,0,0,245,Medium,electrical,changing ceiling lights,,2021-07-08,0.5,0 days
+2021-07-08,0,1,357,Medium,Plumbing,there is leak in the ceiling,,2021-07-08,1.0,0 days
+2021-07-08,0,0,Lobby,Medium,electrical,lobby had fussed lights,,2021-07-08,1.0,0 days
+2021-07-08,0,0,Room Service  ,Medium,electrical,the place was not lit,,2021-07-08,2.0,0 days
+2021-07-08,0,0,321,Medium,RMS,there is no electricity in the room,,2021-07-08,0.5,0 days
+2021-07-08,0,0,323,Medium,Carpentry,wardrope not sliding,,2021-07-08,2.0,0 days
+2021-07-08,0,0,225,Medium,electrical,shaving mirror light was not working,,2021-07-08,0.5,0 days
+2021-07-08,0,0,327,Medium,General,TV setup box issue,,2021-07-08,1.0,0 days
+2021-07-08,0,0,335,Medium,General,TV setup box issue,,2021-07-08,1.5,0 days
+2021-07-08,0,1,353,Medium,Plumbing,WC hose leaking,,2021-07-08,0.5,0 days
+2021-07-08,0,1,357,Medium,Plumbing,wash basin drain is blocked,,2021-07-08,1.0,0 days
+2021-07-08,0,0,306,Medium,electrical,breaker has tripped,,2021-07-08,0.2,0 days
+2021-07-08,0,0,340,Medium,AC,filter not clean,,2021-07-08,0.5,0 days
+2021-07-08,0,0,226,Medium,AC,filter not clean,,2021-07-08,0.6,0 days
+2021-07-08,0,0,301,Medium,electrical,breaker has tripped,,2021-07-08,0.2,0 days
+2021-07-08,0,0,348,Medium,AC,Did not know how to operate AC,,2021-07-08,0.2,0 days
+2021-07-08,0,0,Lobby ,Medium,Plumbing,wash basin drain is blocked,,2021-07-08,1.5,0 days
+2021-07-08,0,0,SPA,Medium,General,All SPA toilets and  bathrooms smell,chemical sent was applied to all drains ,2021-07-08,1.0,0 days
+2021-07-08,0,0,246,Medium,General,TV setup box issue,,2021-07-08,1.0,0 days
+2021-07-08,0,0,332,Medium,General,"TV isnot working, problem with wiring",,2021-07-08,0.5,0 days
+2021-07-08,0,0,223,Medium,AC,actuator was removed,,2021-07-08,1.5,0 days
+2021-07-09,0,0,SPA,Medium,Plumbing,wash basin drain is blocked,,2021-07-09,1.0,0 days
+2021-07-09,0,1,253,Medium,RMS,Card holder not responding,,2021-07-09,0.3,0 days
+2021-07-09,0,0,Huawie entrance ,Medium,electrical,Sliding door was faulty,,2021-07-09,0.2,0 days
+2021-07-09,0,0,225,Medium,General,soap holder loose,,2021-07-09,0.3,0 days
+2021-07-09,0,0,Dubliner,Medium,electrical,Changing 6 lights,,2021-07-09,1.0,0 days
+2021-07-09,0,0,346,Medium,General,TV setup box issue,,2021-07-09,1.5,0 days
+2021-07-09,0,0,Nawroz ,Medium,electrical,one of the switch plugs needs changing,,2021-07-09,0.5,0 days
+2021-07-09,0,0,304,Medium,AC,Actuator was not fully in place,,2021-07-09,1.0,0 days
+2021-07-10,0,0,306,Medium,AC,filter not clean,,2021-07-10,0.6,0 days
+2021-07-10,0,1,256,Medium,Civil,Needed painting,,2021-07-10,2.5,0 days
+2021-07-10,0,0,222,Medium,electrical,standing lamp not working,,2021-07-10,1.5,0 days
+2021-07-10,0,0,140,Medium,General,TV setup box issue,,2021-07-10,1.5,0 days
