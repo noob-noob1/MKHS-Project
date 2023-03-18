@@ -48,7 +48,7 @@ ridge  0.94 hours
 random forest 0.920 hours
 
 ---
-#productionizing our model 
+# productionizing our model 
 
 Created a flask API endpoiant that is predicted locaaly which predicts maintenance time when a list of values is given to it. This API was created following the tutorial mentioned in the resources section.
 
