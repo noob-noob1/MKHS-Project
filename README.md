@@ -28,10 +28,32 @@ pip install -r requirements1.txt
 # EDA
 Feature understanding and feature relationships were explored both numerically and visually, and critical questions were asked about the data.
 
-![Each job type](/Users/yad/Desktop/Project/Drawings%of%readme/1.PNG)
-![Each job type](/Users/yad/Desktop/Project/Drawings%of%readme/2.png)
-![Each job type](/Users/yad/Desktop/Project/Drawings%of%readme/3.png)
+<img src="Drawings-of-readme/1.PNG"  width="700" height=400>
+<img src="Drawings-of-readme/2.png"  width="350" height=400> <img src="Drawings-of-readme/3.png"  width="350" height=400> 
 
+---
+# Model Buidling
+First, relative columns were chosen. Then. dummy columns were created to facilitate model building. lastly, train-test split was created.
+
+Four models were built, and were evalauted using MAE.
+
+---
+# Model Performance
+
+Lasso regression gave the best predictions. Linear regression is not mentioned below because it produced non relaistic results due to collinearity and/or outliers, but since we were only interested in prediction performance, we did not fix this issue, and models were picked that are not affected by collinearity. 
+
+**MAE after optimization**
+lasso 0.843 hours
+ridge  0.94 hours 
+random forest 0.920 hours
+
+---
+#productionizing our model 
+
+Created a flask API endpoiant that is predicted locaaly which predicts maintenance time when a list of values is given to it. This API was created following the tutorial mentioned in the resources section.
+
+
+   
 
 
 
