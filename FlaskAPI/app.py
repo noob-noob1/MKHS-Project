@@ -19,12 +19,11 @@ def predict():
     # stub input features 
     request_json= request.get_json()        #so that you get answer in terminal
     x=request_json["input"]
-    print(x) 
-    x=np.array(data_in).reshape(1,-1)
+    #print(x) 
     x_in= np.array(x).reshape(1,-1)
     #load_models
     model=load_models()
-    prediction = model.predict(x)[0]        #selects the first value of the list, which is a one value list
+    prediction = model.predict(x_in)[0]        #selects the first value of the list, which is a one value list
     response= json.dumps({'response':prediction})
     return response, 200
     # return render_template("delete.html", variable= prediction)
